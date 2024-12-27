@@ -14,7 +14,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": "Subzero~OdJz0DLA#pVX0tRbXQ1hCyYiNJvrZ6VgEmpLd5rCQfLtAMPyqFHs"
+      "value": "Subzero~TAZF3DjR#lRqOFCG1mcTslDOmG7jlJKYYa5D93RlvggH79Q48VuA"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "2349031429006;☠MR Damian"
+      "value": "2348147011661;☠MR Damian"
     },
     "MODE": {
       "description": "choose bot mode public or private",
