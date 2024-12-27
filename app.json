@@ -14,7 +14,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": "Subzero~jNxCRCDC#ZK_1EbpGGxsQczgUZUrpRXvVp-y3oHb0EsR0yiCwf-I"
+      "value": "Subzero~2E43EBhT#PnPzhb8FN02sb0yA7FYcggLjR6kb6Nm30b05-um_Dzo"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
@@ -24,12 +24,12 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "2348147011661;☠MR Draken"
+      "value": "2349031429006;☠MR Damian"
     },
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
