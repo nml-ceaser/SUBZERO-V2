@@ -29,7 +29,7 @@
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
