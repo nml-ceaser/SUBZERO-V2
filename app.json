@@ -14,7 +14,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": "Subzero~2E43EBhT#PnPzhb8FN02sb0yA7FYcggLjR6kb6Nm30b05-um_Dzo"
+      "value": "Subzero~OdJz0DLA#pVX0tRbXQ1hCyYiNJvrZ6VgEmpLd5rCQfLtAMPyqFHs"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
